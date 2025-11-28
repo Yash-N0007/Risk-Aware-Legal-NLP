@@ -55,13 +55,13 @@ The final output includes:
         ┌───────────────┼──────────────┬─────────────────┐
         │               │              │                 │
         ▼               ▼              ▼                 │
-Abstractive      Semantic Retrieval   Risk / Anomaly     │
-Summarization      (E5 + T5)          Detection          │
-   (BART)                         (LegalBERT Ensemble)   │
+    Abstractive      Semantic Retrieval   Risk / Anomaly │
+    Summarization      (E5 + T5)          Detection      │
+     (BART)                         (LegalBERT Ensemble) │
         │               │              │                 │
         └───────────────┼──────────────┴─────────────────┘
                         ▼
-          Unified Review Dashboard Output
+              Unified Review Dashboard Output
 
 
 ---
